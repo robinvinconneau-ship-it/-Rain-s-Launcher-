@@ -14,7 +14,7 @@ Im a bit new in the world of tech, so i wanted to do a little project called
 
 ```bash
 git clone https://github.com/robinvinconneau-ship-it/-Rain-s-Launcher-.git
-cd Rain-Launcher
+cd -Rain-s-Launcher-
 chmod +x install.sh
 ./install.sh
 ```
