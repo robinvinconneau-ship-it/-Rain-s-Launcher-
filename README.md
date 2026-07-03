@@ -3,7 +3,7 @@
 Im a bit new in the world of tech, so i wanted to do a little project called
 "rain launcher" — it's basically a launcher of `.exe` games with a simple gui.
 
-- **Windows**: fully supported, see [Releases](https://github.com/robinvinconneau-ship-it/Rain-Launcher/releases)
+- **Windows**: fully supported, see [Releases](https://github.com/robinvinconneau-ship-it/-Rain-s-Launcher-/releases)
   for a ready-to-use build, or just run `RainLauncher.py` with Python.
 - **Linux**: supported via the installer below — `.exe` games are launched
   automatically through [Wine](https://www.winehq.org).
